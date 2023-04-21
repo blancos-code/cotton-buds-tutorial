@@ -33,7 +33,7 @@ Download process explorer [here](https://download.sysinternals.com/files/Process
 Or from microsoft page https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
 
 Launch the game.
-When in the world, start procexp.exe with **administrator priviledge** (or else you will not find mhyprot2.dll)
+When in the world, start procexp.exe with **administrator priviledge** (or else you will not find mhyprot2)
 
 ### Click on find
 ![Click on find](https://i.imgur.com/t1alCWk.png)
