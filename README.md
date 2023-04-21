@@ -77,7 +77,8 @@ Then you're done.
 - else try to rename <br>
 ![image](https://user-images.githubusercontent.com/79577721/233739941-c09378de-7aa7-4b34-a4ba-2625a849a12d.png) <br>
 to ![image](https://user-images.githubusercontent.com/79577721/233739971-bddfe967-1c35-421b-b771-ab45a674cd3e.png) <br>
-- restart computer
+- try restart computer
+- ask for help on discord 
 
 # Contact
 I need feedback please contact me if it doesnt work for you. <br>
