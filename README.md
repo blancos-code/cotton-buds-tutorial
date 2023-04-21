@@ -24,11 +24,13 @@ You will need ver 7.4 at least
 
 ## 2.How to bypass
 # Method 1 (bypazz)
-First launch, attach the game .exe file
+First launch, attach the game .exe file <br>
 It will then launch the game on its own every time you start it.
 
 # Method 2 (procexp.exe)
-Original tutorial [here](https://fearlessrevolution.com/viewtopic.php?p=255516#p255516).
+Original tutorial [here](https://fearlessrevolution.com/viewtopic.php?p=255516#p255516). <br>
+Download process explorer [here](https://download.sysinternals.com/files/ProcessExplorer.zip). <br>
+Or from microsoft page https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
 
 Launch the game.
 When in the world, start procexp.exe with **administrator priviledge** (or else you will not find mhyprot2.dll)
@@ -66,7 +68,7 @@ Start Genshit_3.6.ct.
 
 ## 2. Attach process
 See: <br>
-![image](https://user-images.githubusercontent.com/79577721/233737897-6b7f0f38-2afd-464d-b179-fe88af1da295.png)
+![image](https://user-images.githubusercontent.com/79577721/233737897-6b7f0f38-2afd-464d-b179-fe88af1da295.png) <br>
 Then you're done.
 
 
