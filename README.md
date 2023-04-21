@@ -59,7 +59,7 @@ Start Cotton Buds 3.6 - Auto Update.CETRAINER.
 ![image](https://user-images.githubusercontent.com/79577721/233737319-6325ba64-5675-4fc7-8e5a-237c91f0907a.png)
 
 ### 3. Then wait for this message:<br>
-![image](https://user-images.githubusercontent.com/79577721/233737114-efa95dbc-1d1c-4d35-9eb9-75f9f5d84611.png)
+![image](https://user-images.githubusercontent.com/79577721/233737114-efa95dbc-1d1c-4d35-9eb9-75f9f5d84611.png) <br>
 Then you're done.
 
 ## Method 2 (.ct)
