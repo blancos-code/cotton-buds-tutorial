@@ -51,6 +51,8 @@ When in the world, start procexp.exe with **administrator priviledge** (or else 
 ![Now all you need to do is right-click on mhyprot2 down there and click on close handle](https://i.imgur.com/qEi5imJ.png)
 
 # 3. How to use 
+**/!\ You need to have bypassed and to be in the game world not main menu / loading screen**
+
 ## Method 1 (CETRAINER)
 ### 1. Launch trainer<br>
 Start Cotton Buds 3.6 - Auto Update.CETRAINER.
