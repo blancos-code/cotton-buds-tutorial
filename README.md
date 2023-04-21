@@ -71,6 +71,13 @@ See: <br>
 ![image](https://user-images.githubusercontent.com/79577721/233737897-6b7f0f38-2afd-464d-b179-fe88af1da295.png) <br>
 Then you're done.
 
+# Debug
+## If it does not work.
+- if you are using process explorer, be sure you ran it with administrator priviledge, else try bypazz (method 1), it might work.
+- else try to rename <br>
+![image](https://user-images.githubusercontent.com/79577721/233739941-c09378de-7aa7-4b34-a4ba-2625a849a12d.png) <br>
+to ![image](https://user-images.githubusercontent.com/79577721/233739971-bddfe967-1c35-421b-b771-ab45a674cd3e.png) <br>
+- restart computer
 
 # Contact
 I need feedback please contact me if it doesnt work for you. <br>
