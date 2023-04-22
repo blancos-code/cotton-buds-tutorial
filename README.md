@@ -80,6 +80,7 @@ Then you're done.
 - else try to rename <br>
 ![image](https://user-images.githubusercontent.com/79577721/233739941-c09378de-7aa7-4b34-a4ba-2625a849a12d.png) <br>
 to ![image](https://user-images.githubusercontent.com/79577721/233739971-bddfe967-1c35-421b-b771-ab45a674cd3e.png) <br>
+- reset CE [settings](https://www.reddit.com/r/cheatengine/comments/tpi7jh/how_to_reset_setting_fix_dbk_error/)
 - try restart computer
 - ask for help on discord 
 
